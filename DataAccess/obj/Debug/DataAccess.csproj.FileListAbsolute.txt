@@ -1,0 +1,6 @@
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\bin\Debug\DataAccess.dll
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\bin\Debug\DataAccess.pdb
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\obj\Debug\DataAccess.dll
+E:\Dorian´s Data\Programacion DATA\Base de datos 1\School Managment System\School_Managment_System_Project\DataAccess\obj\Debug\DataAccess.pdb
